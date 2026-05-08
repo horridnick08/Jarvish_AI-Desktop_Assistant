@@ -26,4 +26,4 @@ Future Goals
 Add LLM integration
 Add memory system
 Add GUI
-Make fully autonomous AI agent
+Make fully autonomous AI agent.
