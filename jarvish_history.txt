@@ -1,0 +1,167 @@
+Jarvish: Jarvish online. Say Jarvish followed by your command.
+You: open YouTube
+You: open WhatsApp
+You: can you say something
+You: open chat GPT
+You: open YouTube
+You: play the third video
+You: jarvis play the third video
+Jarvish: Listening sir
+Jarvish: Sorry sir, I did not understand the command.
+You: jarvis can you say something
+Jarvish: Listening sir
+Jarvish: Sorry sir, I did not understand the command.
+You: jarvis can you open a YouTube
+Jarvish: Listening sir
+Jarvish: Opening YouTube
+You: stop the code
+You: open YouTube
+You: Jarvis open YouTube
+Jarvish: Listening sir
+Jarvish: Opening YouTube
+You: jarvis do you know about Mr beast
+Jarvish: Listening sir
+Jarvish: Sorry sir, I did not understand the command.
+You: jarvis can you
+Jarvish: Listening sir
+Jarvish: Sorry sir, I did not understand the command.
+You: chal gaya Main Tera Banakar call
+You: Jarvis stop the code
+Jarvish: Listening sir
+Jarvish: Shutting down. Goodbye sir.
+Jarvish: Jarvish online. Say Jarvish followed by your command.
+Jarvish: Jarvish online. Say Jarvish followed by your command.
+You: open YouTube
+You: Jarvis open YouTube
+Jarvish: Listening sir
+Jarvish: Opening YouTube
+You: Jarvis open history file
+Jarvish: Listening sir
+Jarvish: Sorry sir, I did not understand the command.
+You: open YouTube
+You: Jarvis
+Jarvish: Listening sir
+You: open YouTube
+Jarvish: Opening YouTube
+You: Jarvis
+Jarvish: Listening sir
+You: stop the code
+Jarvish: Shutting down. Goodbye sir.
+Jarvish: Jarvish online. I can speak multiple languages. Talk to me like a friend.
+You: Jarvis
+Jarvish: Listening my friend
+You: Jarvis
+Jarvish: Sorry, I did not understand. But I am learning with you every day.
+You: speak in Hindi
+Jarvish: Tell me the sentence
+You: kar rahi ho
+Jarvish (en): Jarvish online. I can speak multiple languages. Just tell me Hindi English or Marathi.
+You: Jarvis
+Jarvish (en): Listening my friend
+You: jarvis can you speak Hindi
+Jarvish (hi): अब मैं हिंदी में बात करूंगा
+You: kya kar rahi ho
+Jarvish (hi): I did not understand, but I am learning with you every day.
+You: what I say right now
+Jarvish (hi): I did not understand, but I am learning with you every day.
+You: Jarvis
+Jarvish (hi): Listening my friend
+Jarvish (hi): I did not understand, but I am learning with you every day.
+You: Jarvis
+Jarvish (hi): Listening my friend
+Jarvish (hi): I did not understand, but I am learning with you every day.
+You: Jarvis
+Jarvish (hi): Listening my friend
+Jarvish (hi): I did not understand, but I am learning with you every day.
+You: English
+Jarvish (en): Now I will speak in English
+You: Hindi
+Jarvish (hi): अब मैं हिंदी में बात करूंगा
+You: kya kar rahi ho
+Jarvish (hi): I did not understand, but I am learning with you every day.
+You: English
+Jarvish (en): Now I will speak in English
+You: Jarvis
+Jarvish (en): Listening my friend
+You: open YouTube
+Jarvish (en): Opening YouTube
+You: Jarvis
+Jarvish (en): Listening my friend
+Jarvish (en): I did not understand, but I am learning with you every day.
+You: open chat GPT
+Jarvish (en): Opening ChatGPT
+You: open WhatsApp
+Jarvish (en): Opening WhatsApp Web
+You: open Google
+Jarvish (en): Opening Google
+You: search YouTube on Google
+Jarvish (en): Searching on YouTube
+You: play the video
+Jarvish (en): I did not understand, but I am learning with you every day.
+You: click on the first video
+Jarvish (en): I did not understand, but I am learning with you every day.
+You: Man Ka Jarvis
+Jarvish (en): Listening my friend
+Jarvish (en): I did not understand, but I am learning with you every day.
+You: stop the code
+Jarvish (en): Goodbye my friend
+Jarvish (en): Jarvish online. I can speak multiple languages. Just tell me Hindi English or Marathi.
+Jarvish (en): Jarvish online. I can speak multiple languages. Just tell me Hindi English or Marathi.
+You: 5000 se kam kar hi nahin Raha yaar
+You: 5:30 hajar se kam kar hi nahin Raha yaar
+Jarvish (en): I did not understand, but I am learning with you every day.
+Jarvish (en): Jarvish online. which language would you prefer. Just tell me Hindi English or Marathi.
+You: speak in Hindi
+Jarvish (hi): अब मैं हिंदी में बात करूंगा
+Jarvish (en): Jarvish online. which language would you prefer. Just tell me Hindi English or Marathi.
+You: Jarvis open WhatsApp
+You: Jarvis open WhatsApp
+Jarvish (en): Listening my friend
+Jarvish (en): Opening WhatsApp Web
+You: jarvis shutdown the code
+Jarvish (en): Listening my friend
+Jarvish (en): Goodbye my friend
+Jarvish (en): Jarvish online. which language would you prefer. Just tell me Hindi English or Marathi.
+You: gyaras open YouTube
+Jarvish (en): Opening YouTube
+You: jarvis can you talk to
+Jarvish (en): Listening my friend
+Jarvish (en): I did not understand, but I am learning with you every day.
+You: Hindi
+Jarvish (hi): अब मैं हिंदी में बात करूंगा
+You: Ladki Hai
+Jarvish (hi): I did not understand, but I am learning with you every day.
+You: vah model English Wali
+Jarvish (en): Now I will speak in English
+You: to usko Maine Marathi bhi bola
+Jarvish (mr): आता मी मराठीत बोलेन
+You: exit
+Jarvish (mr): Goodbye my friend
+Jarvish (en): Jarvish online. which language would you prefer. Just tell me Hindi English or Marathi.
+You: hey how are you
+Jarvish (en): I did not understand, but I am learning with you every day.
+You: define yourself
+Jarvish (en): I did not understand, but I am learning with you every day.
+You: are vah Kuchh Nahin ho room ka poochh raha tha rahe ho ek dost Tumhen poochh raha tha tere se
+Jarvish (en): I did not understand, but I am learning with you every day.
+You: Kuchh Nahin Kuchh Nahin bolna
+Jarvish (en): Jarvish online. which language would you prefer. Just tell me Hindi English or Marathi.
+You: open chat GPT
+Jarvish (en): Opening ChatGPT
+You: open YouTube
+Jarvish (en): Opening YouTube
+You: change your voice I want main
+Jarvish (en): I did not understand, but I am learning with you every day.
+You: search
+Jarvish (en): Searching on Google
+You: are you listening to me
+Jarvish (en): I did not understand, but I am learning with you every day.
+You: what is the time
+Jarvish (en): The time is 11:53 PM
+You: exit
+Jarvish (en): Goodbye my friend
+Jarvish (en): Jarvish online. which language would you prefer. Just tell me Hindi English or Marathi.
+You: Jarvis
+Jarvish (en): Listening my friend
+You: open chat GPT
+Jarvish (en): Opening ChatGPT
