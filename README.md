@@ -1,22 +1,38 @@
-🤖 Jarvis AI Assistant
+# 🤖 Jarvis AI Assistant
 
-Jarvis AI is an intelligent Agentic AI-powered desktop assistant designed to automate daily workflows, improve productivity, and provide real-time conversational interaction.
+AI-powered desktop assistant designed to automate daily workflows, improve productivity, and provide intelligent real-time interaction using Agentic AI and LLM-based systems.
 
-The assistant can perform multiple automation tasks such as YouTube search, messaging support, productivity management, coding assistance, and intelligent system interactions through natural communication.
+Jarvis AI can perform multiple automation tasks through simple user commands, including YouTube search, messaging, productivity workflows, AI conversations, and system-level assistance. The assistant is designed to interact naturally like a virtual companion while helping users stay productive and organized.
 
-Jarvis AI focuses on combining automation, conversational AI, and real-world productivity workflows into a single smart assistant experience.
+The project focuses on combining automation, conversational AI, and intelligent workflow execution into a single AI-powered desktop ecosystem.
 
 ---
 
 # ✨ Features
 
+- 🤖 Intelligent Agentic AI assistant
 - 🎤 Human-like conversational interaction
-- 🤖 Agentic AI-powered task execution
 - 🔍 YouTube search automation
-- 💬 Messaging assistance
-- ⚡ Productivity workflow automation
-- 🧠 AI-powered coding assistance
-- 🖥️ Desktop task management
+- 💬 Messaging automation
+- ⚡ Productivity workflow management
+- 🧠 AI-powered question answering
+- 💻 System task automation
 - 🔊 Voice interaction support
-- 🚀 Real-time intelligent responses
-- 📈 Smart workflow orchestration
+- 🚀 Real-time command execution
+- 📚 AI-based assistance for learning & coding
+
+---
+
+# 🛠️ Technologies Used
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,git,github,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Agentic%20AI-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Assistant-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Voice%20Interaction-darkgreen?style=for-the-badge" />
+</p>
