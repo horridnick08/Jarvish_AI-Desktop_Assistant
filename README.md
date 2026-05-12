@@ -8,7 +8,7 @@ The project focuses on combining automation, conversational AI, and intelligent 
 
 ---
 
-# ✨ Features
+✨ Features
 
 - 🤖 Intelligent Agentic AI assistant
 - 🎤 Human-like conversational interaction
