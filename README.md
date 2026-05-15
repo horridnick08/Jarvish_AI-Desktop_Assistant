@@ -1,4 +1,4 @@
-# 🤖 Jarvis AI Assistant
+🤖 Jarvis AI Assistant
 
 AI-powered desktop assistant designed to automate daily workflows, improve productivity, and provide intelligent real-time interaction using Agentic AI and LLM-based systems.
 
@@ -23,7 +23,7 @@ The project focuses on combining automation, conversational AI, and intelligent 
 
 ---
 
-# 🛠️ Technologies Used
+🛠️ Technologies Used
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,git,github,vscode" />
